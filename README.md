@@ -11,6 +11,10 @@ We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehou
  - [Port checker](https://github.com/ethstaker-core/eth2-client-port-checker) - a tool to identify whether you have the correct ports open
 
 
+## Collaborations
+ - [DecentralizedGraffitiDrawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing) - a tool to coordinate drawings on the [graffiti wall](https://www.beaconcha.in/graffitiwall)
+
+
 ## External Resources
  - [Ethereum Studymaster](https://ethereumstudymaster.com/) - a comprehensive educational course about Ethereum and Eth2
  - [beaconcha.in](https://www.beaconcha.in/) - an Eth2 block explorer
