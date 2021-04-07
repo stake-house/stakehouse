@@ -4,7 +4,7 @@ StakeHouse is an extension of the EthStaker community focused on building tools 
 
 We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehouse channel
 
-## Tools
+## Our Tools (under development)
 
  - [Wagyu](https://github.com/stake-house/wagyu) - a one-click Eth2 staking installer
  - [Wizard](https://github.com/remyroy/eth2-validator-wizard) - a cli Eth2 staking installation wizard
