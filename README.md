@@ -2,7 +2,7 @@
 
 StakeHouse is an extension of the EthStaker community focused on building tools that lower the technical bar to staking and promote the health of the beacon chain.
 
-We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehouse channel
+We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehouse channel.
 
 ## Our Tools (under development)
 
