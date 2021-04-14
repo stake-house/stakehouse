@@ -9,8 +9,8 @@ We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehou
 ## Our Tools (under development)
 
  - [Wagyu](https://github.com/stake-house/wagyu) - a one-click Eth2 staking installer
- - [Wizard](https://github.com/remyroy/eth2-validator-wizard) - a cli-based Eth2 staking installation wizard
- - [Port checker](https://github.com/ethstaker-core/eth2-client-port-checker) - a tool to identify whether you have the correct ports open
+ - [Wizard](https://github.com/stake-house/eth2-validator-wizard) - a cli-based Eth2 staking installation wizard
+ - [Port checker](https://github.com/stake-house/eth2-client-port-checker) - a tool to identify whether you have the correct ports open
 
 
 ## Collaborations
