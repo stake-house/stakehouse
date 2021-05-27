@@ -12,6 +12,7 @@ We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehou
  - [Wizard](https://github.com/stake-house/eth2-validator-wizard) - a cli-based Eth2 staking installation wizard
  - [Wagyu Key Gen](https://github.com/stake-house/wagyu-key-gen) - a GUI wrapper around the [deposit cli](https://github.com/ethereum/eth2.0-deposit-cli) to assist in creating your keys
  - [Port checker](https://github.com/stake-house/eth2-client-port-checker) - a tool to identify whether you have the correct ports open
+ - [POAP Reddit Bot](https://github.com/stake-house/poap-reddit-bot) - a code distribution tool for POAP events
 
 
 ## Collaborations
