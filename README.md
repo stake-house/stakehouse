@@ -14,10 +14,13 @@ We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehou
  - [Port checker](https://github.com/stake-house/eth2-client-port-checker) - a tool to identify whether you have the correct ports open
  - [POAP Reddit Bot](https://github.com/stake-house/poap-reddit-bot) - a code distribution tool for POAP events
 
+## Tools and projects in need of testing
+
+- [Wizard](https://github.com/stake-house/eth2-validator-wizard) - We need more users to test this on Pyrmont, Prater and Mainnet.
+- [Eth2xK8s](https://github.com/lumostone/eth2xk8s) - We need more users to test this on Prater. If you are familiar with Kubernetes or you want to learn more about it, this is a great project to start on.
 
 ## Collaborations
  - [DecentralizedGraffitiDrawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing) - a tool to coordinate drawings on the [graffiti wall](https://www.beaconcha.in/graffitiwall)
-
 
 ## External Resources
  - [Ethereum Studymaster](https://ethereumstudymaster.com/) - a comprehensive educational course about Ethereum and Eth2
