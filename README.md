@@ -4,7 +4,7 @@ StakeHouse is an extension of the EthStaker community focused on building tools 
 
 We are growing and welcome contributors of all types to jump in and help with design, development, testing, idea generation, documentation, resource creation, etc!
 
-We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehouse channel.  Come say hi!
+We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehouse🥩🏠 channel.  Come say hi!
 
 ## Our Tools (under development)
 
@@ -18,6 +18,8 @@ We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehou
 
 - [Wizard](https://github.com/stake-house/eth2-validator-wizard) - We need more users to test this on Pyrmont, Prater and Mainnet.
 - [Eth2xK8s](https://github.com/lumostone/eth2xk8s) - We need more users to test this on Prater. If you are familiar with Kubernetes or you want to learn more about it, this is a great project to start on.
+
+We would love to hear your feedback if you decide to try these projects. Make sure to join our #stakehouse🥩🏠 channel on [discord](https://invite.gg/ethstaker).
 
 ## Collaborations
  - [DecentralizedGraffitiDrawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing) - a tool to coordinate drawings on the [graffiti wall](https://www.beaconcha.in/graffitiwall)
