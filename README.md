@@ -23,6 +23,8 @@ We would love to hear your feedback if you decide to try these projects. Make su
 
 ## Collaborations
  - [DecentralizedGraffitiDrawing](https://github.com/RomiRand/DecentralizedGraffitiDrawing) - a tool to coordinate drawings on the [graffiti wall](https://www.beaconcha.in/graffitiwall)
+ - [Eth2xK8s](https://github.com/lumostone/eth2xk8s)
+ - [eth-docker](https://github.com/eth2-educators/eth-docker)
 
 ## External Resources
  - [Ethereum Studymaster](https://ethereumstudymaster.com/) - a comprehensive educational course about Ethereum and Eth2
