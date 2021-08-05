@@ -18,6 +18,7 @@ We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehou
 
 - [Wizard](https://github.com/stake-house/eth2-validator-wizard) - We need more users to test this on Pyrmont, Prater and Mainnet.
 - [Eth2xK8s](https://github.com/lumostone/eth2xk8s) - We need more users to test this on Prater. If you are familiar with Kubernetes or you want to learn more about it, this is a great project to start on.
+- [Stereum](https://stereum.net/) - GUI installer for running validators on remote hosts.  In depth support/feedback on [their discord](https://discord.gg/zCFTQ6xDHV).
 
 We would love to hear your feedback if you decide to try these projects. Make sure to join our #stakehouse🥩🏠 channel on [discord](https://invite.gg/ethstaker).
 
