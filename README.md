@@ -16,6 +16,7 @@ We live on the EthStaker [discord](https://invite.gg/ethstaker) in the #stakehou
 
 ## Tools and projects in need of testing
 
+- [Wagyu Key Gen](https://github.com/stake-house/wagyu-key-gen) - a GUI wrapper around the [deposit cli](https://github.com/ethereum/eth2.0-deposit-cli) to assist in creating your keys
 - [Wizard](https://github.com/stake-house/eth-wizard) - We need more users to test this on Pyrmont, Prater and Mainnet.
 - [Eth2xK8s](https://github.com/lumostone/eth2xk8s) - We need more users to test this on Prater. If you are familiar with Kubernetes or you want to learn more about it, this is a great project to start on.
 - [Stereum](https://stereum.net/) - GUI installer for running validators on remote hosts.  In depth support/feedback on [their discord](https://discord.gg/zCFTQ6xDHV).
